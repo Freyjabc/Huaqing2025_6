@@ -1,2 +1,1 @@
-# Huaqing2025_6
-Used for submitting internship assignments
+# 用于提交实训作业
